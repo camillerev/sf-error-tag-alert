@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MinimumErrorsAlert__c</fullName>
+    <description>The minimum number of error corresponding to a tag name with one run for the alert to be sent (must be configured on the tag name record and the default record).</description>
+    <externalId>false</externalId>
+    <label>Minimum Errors Alert</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

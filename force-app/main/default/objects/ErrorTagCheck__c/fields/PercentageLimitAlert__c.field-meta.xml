@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PercentageLimitAlert__c</fullName>
+    <description>The percentage limit that the error delta from the last run to the average number of errors must raise to send the alert  (must be configured on the tag name record and the default record).</description>
+    <label>Percentage Limit Alert</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Percent</type>
+</CustomField>
